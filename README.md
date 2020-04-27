@@ -7,6 +7,7 @@ Extracted data
 This project extracts Names, Author and Price of books The extracted data looks like this sample:
 
 {
+    
     'author': 'Manish Chadda',
     
     'name': 'हँसो और बढ़ो (कथा Book 1) (Hindi Edition)',
