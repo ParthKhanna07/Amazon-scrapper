@@ -8,7 +8,9 @@ This project extracts Names, Author and Price of books The extracted data looks 
 
 {
     'author': 'Manish Chadda',
+    
     'name': 'हँसो और बढ़ो (कथा Book 1) (Hindi Edition)',
+    
     'price': '49',
 }
 
